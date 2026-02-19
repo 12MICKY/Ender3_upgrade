@@ -1,4 +1,3 @@
-# Ender3_upgrade
 # Ender-3 Marlin Upgrade Project
 
 Custom Marlin firmware setup for Ender-3 with BIGTREETECH SKR MINI E3 V3.0 and TFT35-E3 V3.0.1.
